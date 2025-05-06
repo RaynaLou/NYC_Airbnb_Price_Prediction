@@ -1,1 +1,2 @@
 # NYC_Airbnb_Price_Prediction
+The short-term rental market is highly competitive, and understanding what makes an Airbnb listing successful is crucial for hosts and investors. Factors such as location, price, availability, host details, and guest engagement metrics can significantly impact a property’s demand. This project aims to analyze Airbnb listings in New York City (AB_NYC_2019 dataset) and develop predictive models to determine key drivers of listing performance, including pricing strategies, review impact, and demand segmentation.
